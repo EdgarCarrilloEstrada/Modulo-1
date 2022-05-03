@@ -27,3 +27,9 @@ h3 -> Nombres de articulos
 * La etiqueta a necesita el atributo href
 
 * Algunas etiquetas necesitan atributos
+
+* Las etiquetas a nos ayudan a ir a sitios externos
+
+Una etiqueta puede te
+
+block vs inline alignment
