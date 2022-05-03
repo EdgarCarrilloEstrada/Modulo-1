@@ -1,0 +1,29 @@
+* Para iniciar necesitamos crear un archivo con la terminacion .html
+
+* Poner base de etiquetas de html -> ! o html:5 + enter
+
+* Existen dos tipos de etiquetas:
+    a) Tienen etiqueta de apertura y cierre
+    b) Tiene etiquetas de apertura
+
+* Un archivo html se abre en el navegador
+
+* Dentro de las etiquetas head agregamos etiquetas de informacion o configuracion de nuestro sitio web
+
+* Favicon para imagen de la pestaña
+
+* Dentro de la etiqueta body, vamos a poner todos los componentes de nuestra pagina
+
+* Las etiquetas que tienen apertura y cierre es porque podemos poner cosas dentro de ellas
+
+* Etiquetas para encabezados h1 -> h6
+h1 -> Texto mas importante
+h2 -> Subtitulos
+h3 -> Nombres de articulos
+
+* Etiqueta para textos o parrafos -> p
+
+* La etiqueta para enlaces -> a
+* La etiqueta a necesita el atributo href
+
+* Algunas etiquetas necesitan atributos
